@@ -23,7 +23,7 @@ public class QuestionFive {
         }
 
         public static void main(String[] args) {
-            int[] nums = {2, 3, 1, 1, 4};
+            int[] nums = {2, 1, 0, 1, 1};
             System.out.println(Jumpindexes(nums));
         }
     }

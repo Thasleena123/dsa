@@ -29,7 +29,7 @@ public class QuestionOne {
     }
 
     public static void main(String[] args) {
-        int[] nums = {1, 2, 3, 4, 3, 2, 1};
+        int[] nums = {1, 2, 3, 1, 2};
         int k = 4;
         System.out.println(maxOperations(nums, k));
     }

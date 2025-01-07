@@ -1,5 +1,5 @@
 public class QuestionThree {
-    public class MaxProfit {
+
         public static int maxProfit(int[] prices) {
             if (prices == null || prices.length <= 1) {
                 return 0;
@@ -30,4 +30,3 @@ public class QuestionThree {
     }
 
 
-}
