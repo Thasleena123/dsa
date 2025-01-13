@@ -1,3 +1,9 @@
+//3. Rearrange Positive & Negative Values
+//Problem Statement
+//-----------------
+//Create the method void reArrange(int[] arr) that takes an integer array and returns the same array
+//sorted with all negative integers to the left of the middle element and all positive integers to the right.
+
 public class QuestionThree {
     public static void reArrange(int[] arr) {
 

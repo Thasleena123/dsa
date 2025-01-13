@@ -1,3 +1,8 @@
+//2. Find Minimum Value in Array
+//Problem Statement
+//------------------
+//Create a method int findMinimum(int[] arr) that takes an array and returns the smallest element within the array.
+
 public class QuestionTwo {
     public static int findMinimum(int[] arr) {
         int smallestElement = arr[0];
