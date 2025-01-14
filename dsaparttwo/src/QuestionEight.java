@@ -1,3 +1,13 @@
+//8. Fruit Basket Problem
+//        Problem Statement
+//
+//        With a given array of characters where each character represents a fruit tree,
+//        place the maximum number of fruits in each of 2 baskets. The only restriction is that each basket can have only one type of fruit.
+//
+//        You can start with any tree, but you can’t skip a tree once you have started. You will pick one fruit from each tree until you cannot, i.e.,
+//        you will stop when you have to pick from a third fruit type.
+//
+//        Write a function to return the maximum number of fruits in both the baskets.
 import java.util.HashMap;
 
 public class QuestionEight {

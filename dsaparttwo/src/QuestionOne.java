@@ -1,3 +1,8 @@
+//1. Find Two Numbers that Add up to n (Use Quick Sort)
+//        Problem Statement
+//        -----------------
+//        Create a method int[] findSum(int[] arr, int n) that takes an integer array arr and returns an array of the two integer elements that add up to integer n.
+//        If there are multiple, return only one. If there is no such pair, return the original array.
 import java.util.Arrays;
 
 public class QuestionOne {
