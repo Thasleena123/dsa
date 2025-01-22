@@ -33,7 +33,7 @@ public class QuestionSix {
     }
 
     public static void main(String[] args) {
-        String str = "abacbaa";
+        String str = "abacba";
         List<String> result = PalindromesCheck(str);
         for (String palindrome : result) {
             System.out.println(palindrome);

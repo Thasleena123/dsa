@@ -32,7 +32,7 @@ public class QuestionEight {
 
 
     public static void main(String[] args) {
-        char[] arr = {'A', 'B', 'C', 'A'};
+        char[] arr = {'A', 'B', 'C', 'A','A'};
         System.out.println(maxFruit(arr));
     }
 }
